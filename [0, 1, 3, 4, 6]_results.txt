@@ -1,0 +1,4320 @@
+sweet potato: 0.050272 sweet potatoes
+broccoli: 1.447394 bunches
+almond: 2.587080 x0.25 cups
+brown rice: 4.596843 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 1162.19
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 31.25%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 113.63%
+sugar: 100.00%
+fiber: 173.65%
+calcium: 71.77%
+sodium: 44.05%
+potassium: 99.39%
+folic acid: 156.60%
+vitamin C: 1047.46%
+
+--------------------
+
+broccoli: 1.446050 bunches
+blue berries: 0.052686 x0.5 cups
+almond: 2.585351 x0.25 cups
+brown rice: 4.613753 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 1164.19
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 31.23%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 113.66%
+sugar: 100.00%
+fiber: 173.46%
+calcium: 71.57%
+sodium: 43.89%
+potassium: 98.75%
+folic acid: 156.46%
+vitamin C: 1045.50%
+
+--------------------
+
+honey: 0.020110 tablespoons
+broccoli: 1.448847 bunches
+almond: 2.584834 x0.25 cups
+brown rice: 4.615607 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 1164.44
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 31.22%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 113.64%
+sugar: 100.00%
+fiber: 173.28%
+calcium: 71.62%
+sodium: 43.93%
+potassium: 98.82%
+folic acid: 156.68%
+vitamin C: 1047.03%
+
+--------------------
+
+broccoli: 1.449597 bunches
+apple: 0.023848 apples
+almond: 2.585077 x0.25 cups
+brown rice: 4.612664 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 1164.48
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 31.23%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 113.64%
+sugar: 100.00%
+fiber: 173.52%
+calcium: 71.66%
+sodium: 43.94%
+potassium: 98.94%
+folic acid: 156.77%
+vitamin C: 1047.77%
+
+--------------------
+
+orange: 0.040566 oranges
+broccoli: 1.446459 bunches
+almond: 2.585156 x0.25 cups
+brown rice: 4.615095 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 1164.99
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 31.23%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 113.63%
+sugar: 100.00%
+fiber: 173.42%
+calcium: 71.70%
+sodium: 43.90%
+potassium: 98.88%
+folic acid: 156.74%
+vitamin C: 1048.07%
+
+--------------------
+
+tomato: 0.094481 tomatoes
+broccoli: 1.446180 bunches
+almond: 2.580139 x0.25 cups
+brown rice: 4.613289 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 1165.33
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 31.18%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 113.67%
+sugar: 100.00%
+fiber: 173.36%
+calcium: 71.68%
+sodium: 43.88%
+potassium: 98.65%
+folic acid: 156.41%
+vitamin C: 1048.13%
+
+--------------------
+
+broccoli: 1.498025 bunches
+avocado: 0.073122 avocadoes
+almond: 2.473314 x0.25 cups
+brown rice: 4.582959 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 1189.88
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 33.03%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 113.83%
+sugar: 100.00%
+fiber: 176.90%
+calcium: 72.07%
+sodium: 43.76%
+potassium: 102.08%
+folic acid: 163.83%
+vitamin C: 1084.04%
+
+--------------------
+
+black beans: 1.809122 cups
+sweet potato: 2.046641 sweet potatoes
+almond: 2.836757 x0.25 cups
+brown rice: 2.892586 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 1388.52
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 33.74%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 109.33%
+sugar: 100.00%
+fiber: 194.14%
+calcium: 47.39%
+sodium: 31.16%
+potassium: 81.24%
+folic acid: 134.56%
+vitamin C: 60.03%
+
+--------------------
+
+carrot: 15.801490 carrots
+yogurt: 2.000000 x5.3 ounces
+tomato: 0.686934 tomatoes
+avocado: 1.252265 avocadoes
+brown rice: 2.750956 cups
+
+Cost/Distance: 1464.88
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 190.09%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 109.60%
+sugar: 100.00%
+fiber: 194.40%
+calcium: 75.86%
+sodium: 38.90%
+potassium: 128.49%
+folic acid: 93.22%
+vitamin C: 194.51%
+
+--------------------
+
+carrot: 16.653038 carrots
+yogurt: 2.000000 x5.3 ounces
+blue berries: 0.387507 x0.5 cups
+avocado: 1.287450 avocadoes
+brown rice: 2.619421 cups
+
+Cost/Distance: 1643.90
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 191.50%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 109.61%
+sugar: 100.00%
+fiber: 200.03%
+calcium: 76.06%
+sodium: 40.06%
+potassium: 134.64%
+folic acid: 96.83%
+vitamin C: 184.79%
+
+--------------------
+
+carrot: 16.774530 carrots
+yogurt: 2.000000 x5.3 ounces
+orange: 0.301334 oranges
+avocado: 1.287998 avocadoes
+brown rice: 2.612029 cups
+
+Cost/Distance: 1690.03
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 191.52%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 109.44%
+sugar: 100.00%
+fiber: 200.19%
+calcium: 77.21%
+sodium: 40.23%
+potassium: 136.15%
+folic acid: 98.93%
+vitamin C: 202.81%
+
+--------------------
+
+tomato: 4.566424 tomatoes
+black beans: 3.236772 cups
+avocado: 1.734305 avocadoes
+brown rice: 2.013235 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 1753.01
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 74.75%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 112.51%
+sugar: 100.00%
+fiber: 273.28%
+calcium: 31.06%
+sodium: 6.19%
+potassium: 94.52%
+folic acid: 279.56%
+vitamin C: 180.81%
+
+--------------------
+
+carrot: 17.688021 carrots
+yogurt: 2.000000 x5.3 ounces
+honey: 0.158971 tablespoons
+avocado: 1.297489 avocadoes
+brown rice: 2.483903 cups
+
+Cost/Distance: 1813.95
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 191.90%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 109.50%
+sugar: 100.00%
+fiber: 202.94%
+calcium: 77.57%
+sodium: 41.69%
+potassium: 140.25%
+folic acid: 99.14%
+vitamin C: 191.04%
+
+--------------------
+
+black beans: 3.377947 cups
+blue berries: 2.584581 x0.5 cups
+avocado: 1.907932 avocadoes
+brown rice: 1.881903 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 1823.13
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 81.69%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 112.09%
+sugar: 100.00%
+fiber: 287.54%
+calcium: 24.08%
+sodium: 4.93%
+potassium: 104.07%
+folic acid: 297.61%
+vitamin C: 62.28%
+
+--------------------
+
+honey: 1.064626 tablespoons
+black beans: 3.550809 cups
+avocado: 1.901361 avocadoes
+brown rice: 1.884177 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 1836.92
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 81.43%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 110.80%
+sugar: 100.00%
+fiber: 278.72%
+calcium: 23.95%
+sodium: 4.85%
+potassium: 103.22%
+folic acid: 305.84%
+vitamin C: 38.03%
+
+--------------------
+
+orange: 2.010783 oranges
+black beans: 3.398166 cups
+avocado: 1.902954 avocadoes
+brown rice: 1.938994 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 1852.25
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 81.49%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 110.90%
+sugar: 100.00%
+fiber: 285.28%
+calcium: 30.56%
+sodium: 4.79%
+potassium: 109.65%
+folic acid: 310.82%
+vitamin C: 174.79%
+
+--------------------
+
+black beans: 3.614583 cups
+apple: 1.291877 apples
+avocado: 1.913721 avocadoes
+brown rice: 1.685437 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 1870.75
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 81.93%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 110.92%
+sugar: 100.00%
+fiber: 292.67%
+calcium: 24.76%
+sodium: 4.75%
+potassium: 108.67%
+folic acid: 311.29%
+vitamin C: 48.61%
+
+--------------------
+
+carrot: 18.067743 carrots
+yogurt: 2.000000 x5.3 ounces
+apple: 0.192616 apples
+avocado: 1.303376 avocadoes
+brown rice: 2.404426 cups
+
+Cost/Distance: 1908.48
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 192.14%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 109.55%
+sugar: 100.00%
+fiber: 206.57%
+calcium: 78.25%
+sodium: 42.28%
+potassium: 143.16%
+folic acid: 100.35%
+vitamin C: 196.24%
+
+--------------------
+
+carrot: 17.494305 carrots
+yogurt: 2.000000 x5.3 ounces
+sweet potato: 0.384798 sweet potatoes
+avocado: 1.306417 avocadoes
+brown rice: 2.363370 cups
+
+Cost/Distance: 1942.06
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 192.26%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 109.46%
+sugar: 100.00%
+fiber: 205.53%
+calcium: 78.57%
+sodium: 42.34%
+potassium: 144.16%
+folic acid: 99.43%
+vitamin C: 200.70%
+
+--------------------
+
+orange: 1.610226 oranges
+black beans: 1.762755 cups
+almond: 2.753982 x0.25 cups
+brown rice: 3.660737 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 1971.13
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 32.92%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 109.60%
+sugar: 100.00%
+fiber: 184.40%
+calcium: 45.37%
+sodium: 25.43%
+potassium: 61.31%
+folic acid: 141.00%
+vitamin C: 109.50%
+
+--------------------
+
+carrot: 1.833390 carrots
+yogurt: 2.000000 x5.3 ounces
+broccoli: 0.289447 bunches
+avocado: 1.105531 avocadoes
+brown rice: 4.785884 cups
+
+Cost/Distance: 1999.28
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 184.22%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 108.94%
+sugar: 100.00%
+fiber: 135.69%
+calcium: 60.73%
+sodium: 20.49%
+potassium: 60.38%
+folic acid: 84.43%
+vitamin C: 248.40%
+
+--------------------
+
+black beans: 1.928465 cups
+apple: 1.033365 apples
+almond: 2.766446 x0.25 cups
+brown rice: 3.465710 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 2016.15
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 33.04%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 109.61%
+sugar: 100.00%
+fiber: 189.85%
+calcium: 40.79%
+sodium: 25.49%
+potassium: 60.30%
+folic acid: 140.61%
+vitamin C: 8.27%
+
+--------------------
+
+black beans: 1.743149 cups
+blue berries: 2.068643 x0.5 cups
+almond: 2.759748 x0.25 cups
+brown rice: 3.618648 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 2122.91
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 32.97%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 110.55%
+sugar: 100.00%
+fiber: 185.99%
+calcium: 40.21%
+sodium: 25.58%
+potassium: 56.74%
+folic acid: 130.07%
+vitamin C: 19.31%
+
+--------------------
+
+honey: 0.852690 tablespoons
+black beans: 1.886108 cups
+almond: 2.752136 x0.25 cups
+brown rice: 3.615678 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 2143.51
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 32.90%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 109.52%
+sugar: 100.00%
+fiber: 179.21%
+calcium: 40.06%
+sodium: 25.46%
+potassium: 56.19%
+folic acid: 137.12%
+vitamin C: 0.00%
+
+--------------------
+
+black beans: 3.518347 cups
+sweet potato: 2.575012 sweet potatoes
+avocado: 1.974916 avocadoes
+brown rice: 0.907424 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 2238.75
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 84.37%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 110.60%
+sugar: 100.00%
+fiber: 301.35%
+calcium: 32.54%
+sodium: 11.23%
+potassium: 136.56%
+folic acid: 309.14%
+vitamin C: 115.03%
+
+--------------------
+
+tomato: 3.722490 tomatoes
+black beans: 1.749340 cups
+almond: 2.555019 x0.25 cups
+brown rice: 3.596869 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 2247.41
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 30.93%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 111.01%
+sugar: 100.00%
+fiber: 181.90%
+calcium: 44.71%
+sodium: 25.07%
+potassium: 52.47%
+folic acid: 127.79%
+vitamin C: 119.12%
+
+--------------------
+
+yogurt: 2.000000 x5.3 ounces
+black beans: 0.043210 cups
+broccoli: 0.291415 bunches
+avocado: 1.085847 avocadoes
+brown rice: 5.028049 cups
+
+Cost/Distance: 2344.52
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 183.43%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 108.79%
+sugar: 100.00%
+fiber: 128.18%
+calcium: 58.07%
+sodium: 17.61%
+potassium: 50.28%
+folic acid: 82.53%
+vitamin C: 232.31%
+
+--------------------
+
+yogurt: 2.000000 x5.3 ounces
+spinach: 0.274389 x1.5 cups
+broccoli: 0.291402 bunches
+avocado: 1.085978 avocadoes
+brown rice: 5.047890 cups
+
+Cost/Distance: 2351.43
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 183.44%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 108.77%
+sugar: 100.00%
+fiber: 128.12%
+calcium: 60.01%
+sodium: 18.81%
+potassium: 49.65%
+folic acid: 90.78%
+vitamin C: 241.09%
+
+--------------------
+
+spinach: 11.453533 x1.5 cups
+sweet potato: 2.044413 sweet potatoes
+almond: 2.844556 x0.25 cups
+brown rice: 3.726951 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 2375.35
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 33.82%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 108.42%
+sugar: 100.00%
+fiber: 191.24%
+calcium: 128.38%
+sodium: 81.16%
+potassium: 54.72%
+folic acid: 478.61%
+vitamin C: 426.48%
+
+--------------------
+
+yogurt: 2.000000 x5.3 ounces
+broccoli: 0.277962 bunches
+avocado: 1.016491 avocadoes
+almond: 0.101943 x0.25 cups
+brown rice: 5.081925 cups
+
+Cost/Distance: 2408.60
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 181.68%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 108.71%
+sugar: 100.00%
+fiber: 124.60%
+calcium: 58.37%
+sodium: 18.19%
+potassium: 48.17%
+folic acid: 76.19%
+vitamin C: 221.20%
+
+--------------------
+
+yogurt: 2.000000 x5.3 ounces
+black beans: 0.437744 cups
+sweet potato: 0.411308 sweet potatoes
+avocado: 1.120844 avocadoes
+brown rice: 4.649739 cups
+
+Cost/Distance: 2463.23
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 184.83%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 107.95%
+sugar: 100.00%
+fiber: 134.20%
+calcium: 52.90%
+sodium: 14.66%
+potassium: 47.60%
+folic acid: 81.19%
+vitamin C: 34.48%
+
+--------------------
+
+spinach: 6.657136 x1.5 cups
+broccoli: 1.824099 bunches
+avocado: 1.759010 avocadoes
+brown rice: 3.757222 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 2568.79
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 75.74%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 115.36%
+sugar: 100.00%
+fiber: 262.12%
+calcium: 111.97%
+sodium: 58.71%
+potassium: 137.97%
+folic acid: 517.79%
+vitamin C: 1566.42%
+
+--------------------
+
+yogurt: 2.000000 x5.3 ounces
+spinach: 2.778570 x1.5 cups
+sweet potato: 0.411120 sweet potatoes
+avocado: 1.122161 avocadoes
+brown rice: 4.850828 cups
+
+Cost/Distance: 2571.99
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 184.89%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 107.73%
+sugar: 100.00%
+fiber: 133.57%
+calcium: 72.54%
+sodium: 26.78%
+potassium: 41.21%
+folic acid: 164.77%
+vitamin C: 123.42%
+
+--------------------
+
+yogurt: 2.000000 x5.3 ounces
+orange: 0.321183 oranges
+black beans: 0.418547 cups
+avocado: 1.109349 avocadoes
+brown rice: 4.814512 cups
+
+Cost/Distance: 2612.04
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 184.37%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 107.99%
+sugar: 100.00%
+fiber: 131.64%
+calcium: 52.59%
+sodium: 13.63%
+potassium: 43.31%
+folic acid: 81.45%
+vitamin C: 44.03%
+
+--------------------
+
+yogurt: 2.000000 x5.3 ounces
+black beans: 0.453116 cups
+apple: 0.206352 apples
+avocado: 1.111069 avocadoes
+brown rice: 4.774011 cups
+
+Cost/Distance: 2619.42
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 184.44%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 108.00%
+sugar: 100.00%
+fiber: 132.82%
+calcium: 51.66%
+sodium: 13.63%
+potassium: 43.15%
+folic acid: 81.53%
+vitamin C: 23.87%
+
+--------------------
+
+yogurt: 2.000000 x5.3 ounces
+black beans: 0.415318 cups
+blue berries: 0.412837 x0.5 cups
+avocado: 1.110144 avocadoes
+brown rice: 4.805393 cups
+
+Cost/Distance: 2643.99
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 184.41%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 108.19%
+sugar: 100.00%
+fiber: 132.00%
+calcium: 51.55%
+sodium: 13.66%
+potassium: 42.41%
+folic acid: 79.34%
+vitamin C: 26.06%
+
+--------------------
+
+yogurt: 2.000000 x5.3 ounces
+honey: 0.170053 tablespoons
+black beans: 0.442929 cups
+avocado: 1.109095 avocadoes
+brown rice: 4.805756 cups
+
+Cost/Distance: 2648.50
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 184.36%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 107.98%
+sugar: 100.00%
+fiber: 130.59%
+calcium: 51.53%
+sodium: 13.64%
+potassium: 42.28%
+folic acid: 80.66%
+vitamin C: 22.18%
+
+--------------------
+
+black beans: 1.048352 cups
+broccoli: 1.824418 bunches
+avocado: 1.755816 avocadoes
+brown rice: 3.275852 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 2686.04
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 75.61%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 115.88%
+sugar: 100.00%
+fiber: 263.63%
+calcium: 64.92%
+sodium: 29.68%
+potassium: 153.30%
+folic acid: 317.55%
+vitamin C: 1353.56%
+
+--------------------
+
+yogurt: 2.000000 x5.3 ounces
+tomato: 0.729397 tomatoes
+black beans: 0.392768 cups
+avocado: 1.082411 avocadoes
+brown rice: 4.826371 cups
+
+Cost/Distance: 2691.16
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 183.30%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 108.25%
+sugar: 100.00%
+fiber: 129.72%
+calcium: 52.67%
+sodium: 13.86%
+potassium: 40.89%
+folic acid: 76.46%
+vitamin C: 44.99%
+
+--------------------
+
+yogurt: 2.000000 x5.3 ounces
+orange: 0.321043 oranges
+spinach: 2.656773 x1.5 cups
+avocado: 1.110614 avocadoes
+brown rice: 5.006714 cups
+
+Cost/Distance: 2722.18
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 184.42%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 107.79%
+sugar: 100.00%
+fiber: 131.03%
+calcium: 71.36%
+sodium: 25.22%
+potassium: 37.19%
+folic acid: 161.37%
+vitamin C: 129.06%
+
+--------------------
+
+yogurt: 2.000000 x5.3 ounces
+spinach: 2.876096 x1.5 cups
+apple: 0.206254 apples
+avocado: 1.112437 avocadoes
+brown rice: 4.982099 cups
+
+Cost/Distance: 2741.39
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 184.50%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 107.77%
+sugar: 100.00%
+fiber: 132.16%
+calcium: 71.99%
+sodium: 26.17%
+potassium: 36.53%
+folic acid: 168.04%
+vitamin C: 115.93%
+
+--------------------
+
+yogurt: 2.000000 x5.3 ounces
+spinach: 2.636282 x1.5 cups
+blue berries: 0.412657 x0.5 cups
+avocado: 1.111399 avocadoes
+brown rice: 4.996117 cups
+
+Cost/Distance: 2752.64
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 184.46%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 107.98%
+sugar: 100.00%
+fiber: 131.40%
+calcium: 70.18%
+sodium: 25.15%
+potassium: 36.35%
+folic acid: 158.65%
+vitamin C: 110.44%
+
+--------------------
+
+yogurt: 2.000000 x5.3 ounces
+honey: 0.169975 tablespoons
+spinach: 2.811467 x1.5 cups
+avocado: 1.110433 avocadoes
+brown rice: 5.009153 cups
+
+Cost/Distance: 2767.99
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 184.42%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 107.76%
+sugar: 100.00%
+fiber: 129.95%
+calcium: 71.40%
+sodium: 25.90%
+potassium: 35.81%
+folic acid: 165.23%
+vitamin C: 112.18%
+
+--------------------
+
+yogurt: 2.000000 x5.3 ounces
+tomato: 0.729098 tomatoes
+spinach: 2.493202 x1.5 cups
+avocado: 1.083609 avocadoes
+brown rice: 5.006734 cups
+
+Cost/Distance: 2794.95
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 183.34%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 108.06%
+sugar: 100.00%
+fiber: 129.15%
+calcium: 70.29%
+sodium: 24.73%
+potassium: 35.15%
+folic acid: 151.46%
+vitamin C: 124.79%
+
+--------------------
+
+yogurt: 2.000000 x5.3 ounces
+sweet potato: 0.275989 sweet potatoes
+avocado: 0.615055 avocadoes
+almond: 0.726512 x0.25 cups
+brown rice: 5.158152 cups
+
+Cost/Distance: 2909.07
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 171.87%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 107.62%
+sugar: 100.00%
+fiber: 106.74%
+calcium: 56.70%
+sodium: 19.77%
+potassium: 33.44%
+folic acid: 36.48%
+vitamin C: 20.40%
+
+--------------------
+
+yogurt: 1.545313 x5.3 ounces
+sweet potato: 0.551393 sweet potatoes
+almond: 1.888875 x0.25 cups
+brown rice: 5.120781 cups
+egg: 0.061114 eggs
+
+Cost/Distance: 2957.20
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 128.28%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 107.70%
+sugar: 100.00%
+fiber: 100.81%
+calcium: 58.16%
+sodium: 27.15%
+potassium: 30.99%
+folic acid: 16.77%
+vitamin C: 16.17%
+
+--------------------
+
+tomato: 4.529475 tomatoes
+potato: 4.282711 potatoes
+black beans: 3.309727 cups
+avocado: 1.882100 avocadoes
+egg: 0.268817 eggs
+
+Cost/Distance: 2980.21
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 80.66%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 112.52%
+sugar: 100.00%
+fiber: 255.87%
+calcium: 31.05%
+sodium: 6.98%
+potassium: 161.42%
+folic acid: 300.89%
+vitamin C: 308.21%
+
+--------------------
+
+orange: 1.608518 oranges
+spinach: 11.160295 x1.5 cups
+almond: 2.761670 x0.25 cups
+brown rice: 4.472925 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 2981.18
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 32.99%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 108.72%
+sugar: 100.00%
+fiber: 181.59%
+calcium: 124.29%
+sodium: 74.16%
+potassium: 35.48%
+folic acid: 476.23%
+vitamin C: 466.51%
+
+--------------------
+
+yogurt: 2.000000 x5.3 ounces
+orange: 0.218670 oranges
+avocado: 0.622330 avocadoes
+almond: 0.704821 x0.25 cups
+brown rice: 5.255154 cups
+
+Cost/Distance: 3001.58
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 171.94%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 107.66%
+sugar: 100.00%
+fiber: 105.82%
+calcium: 56.38%
+sodium: 18.92%
+potassium: 30.93%
+folic acid: 37.99%
+vitamin C: 27.32%
+
+--------------------
+
+yogurt: 2.000000 x5.3 ounces
+blue berries: 0.281763 x0.5 cups
+avocado: 0.625438 avocadoes
+almond: 0.701109 x0.25 cups
+brown rice: 5.246610 cups
+
+Cost/Distance: 3022.46
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 172.03%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 107.79%
+sugar: 100.00%
+fiber: 106.20%
+calcium: 55.65%
+sodium: 18.90%
+potassium: 30.39%
+folic acid: 36.78%
+vitamin C: 15.14%
+
+--------------------
+
+yogurt: 2.000000 x5.3 ounces
+apple: 0.136881 apples
+avocado: 0.596789 avocadoes
+almond: 0.743436 x0.25 cups
+brown rice: 5.252430 cups
+
+Cost/Distance: 3028.91
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 171.31%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 107.65%
+sugar: 100.00%
+fiber: 105.19%
+calcium: 55.97%
+sodium: 19.20%
+potassium: 30.15%
+folic acid: 35.66%
+vitamin C: 13.03%
+
+--------------------
+
+yogurt: 2.000000 x5.3 ounces
+tomato: 0.506550 tomatoes
+avocado: 0.624454 avocadoes
+almond: 0.674672 x0.25 cups
+brown rice: 5.244541 cups
+
+Cost/Distance: 3042.99
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 171.72%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 107.86%
+sugar: 100.00%
+fiber: 105.59%
+calcium: 56.27%
+sodium: 18.84%
+potassium: 29.78%
+folic acid: 36.39%
+vitamin C: 28.70%
+
+--------------------
+
+yogurt: 2.000000 x5.3 ounces
+honey: 0.113663 tablespoons
+avocado: 0.603197 avocadoes
+almond: 0.732264 x0.25 cups
+brown rice: 5.266459 cups
+
+Cost/Distance: 3043.14
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 171.45%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 107.64%
+sugar: 100.00%
+fiber: 104.11%
+calcium: 55.82%
+sodium: 19.13%
+potassium: 29.76%
+folic acid: 35.77%
+vitamin C: 12.06%
+
+--------------------
+
+spinach: 11.036293 x1.5 cups
+blue berries: 2.066473 x0.5 cups
+almond: 2.767345 x0.25 cups
+brown rice: 4.421856 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 3086.33
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 33.05%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 109.68%
+sugar: 100.00%
+fiber: 183.21%
+calcium: 118.26%
+sodium: 73.77%
+potassium: 31.20%
+folic acid: 461.59%
+vitamin C: 372.45%
+
+--------------------
+
+tomato: 3.514011 tomatoes
+potato: 8.201307 potatoes
+black beans: 1.646310 cups
+almond: 2.971977 x0.25 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 3123.26
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 35.10%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 110.77%
+sugar: 100.00%
+fiber: 133.66%
+calcium: 46.91%
+sodium: 29.67%
+potassium: 173.71%
+folic acid: 143.85%
+vitamin C: 353.02%
+
+--------------------
+
+potato: 1.938960 potatoes
+black beans: 3.550345 cups
+sweet potato: 2.565579 sweet potatoes
+avocado: 2.040947 avocadoes
+egg: 0.268817 eggs
+
+Cost/Distance: 3130.29
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 87.01%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 110.61%
+sugar: 100.00%
+fiber: 293.36%
+calcium: 32.53%
+sodium: 11.57%
+potassium: 166.69%
+folic acid: 318.69%
+vitamin C: 172.95%
+
+--------------------
+
+potato: 3.590122 potatoes
+black beans: 3.673177 cups
+apple: 1.283114 apples
+avocado: 2.036398 avocadoes
+egg: 0.268817 eggs
+
+Cost/Distance: 3136.57
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 86.83%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 110.93%
+sugar: 100.00%
+fiber: 277.95%
+calcium: 24.79%
+sodium: 5.42%
+potassium: 164.65%
+folic acid: 328.95%
+vitamin C: 156.30%
+
+--------------------
+
+yogurt: 1.534439 x5.3 ounces
+orange: 0.442095 oranges
+almond: 1.872818 x0.25 cups
+brown rice: 5.316002 cups
+egg: 0.062575 eggs
+
+Cost/Distance: 3147.78
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 127.39%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 107.79%
+sugar: 100.00%
+fiber: 98.80%
+calcium: 57.53%
+sodium: 25.61%
+potassium: 25.87%
+folic acid: 19.36%
+vitamin C: 30.06%
+
+--------------------
+
+spinach: 12.208216 x1.5 cups
+apple: 1.032166 apples
+almond: 2.774841 x0.25 cups
+brown rice: 4.354387 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 3147.96
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 33.12%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 108.64%
+sugar: 100.00%
+fiber: 186.77%
+calcium: 127.13%
+sodium: 78.79%
+potassium: 32.06%
+folic acid: 507.31%
+vitamin C: 398.92%
+
+--------------------
+
+honey: 1.056560 tablespoons
+potato: 4.010248 potatoes
+black beans: 3.616742 cups
+avocado: 2.038488 avocadoes
+egg: 0.268817 eggs
+
+Cost/Distance: 3169.50
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 86.92%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 110.81%
+sugar: 100.00%
+fiber: 262.38%
+calcium: 23.99%
+sodium: 5.60%
+potassium: 165.79%
+folic acid: 325.60%
+vitamin C: 158.40%
+
+--------------------
+
+potato: 4.005445 potatoes
+black beans: 3.445110 cups
+blue berries: 2.565022 x0.5 cups
+avocado: 2.044845 avocadoes
+egg: 0.268817 eggs
+
+Cost/Distance: 3184.05
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 87.17%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 112.10%
+sugar: 100.00%
+fiber: 271.15%
+calcium: 24.12%
+sodium: 5.68%
+potassium: 166.56%
+folic acid: 317.41%
+vitamin C: 182.33%
+
+--------------------
+
+yogurt: 1.571514 x5.3 ounces
+apple: 0.265602 apples
+almond: 1.854731 x0.25 cups
+brown rice: 5.305869 cups
+egg: 0.057592 eggs
+
+Cost/Distance: 3190.61
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 129.71%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 107.75%
+sugar: 100.00%
+fiber: 98.13%
+calcium: 56.65%
+sodium: 25.63%
+potassium: 24.76%
+folic acid: 16.32%
+vitamin C: 2.12%
+
+--------------------
+
+yogurt: 1.529715 x5.3 ounces
+blue berries: 0.572575 x0.5 cups
+almond: 1.877127 x0.25 cups
+brown rice: 5.299256 cups
+egg: 0.063210 eggs
+
+Cost/Distance: 3192.68
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 127.12%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 108.06%
+sugar: 100.00%
+fiber: 99.50%
+calcium: 56.07%
+sodium: 25.65%
+potassium: 24.72%
+folic acid: 16.71%
+vitamin C: 5.34%
+
+--------------------
+
+yogurt: 1.562495 x5.3 ounces
+honey: 0.222799 tablespoons
+almond: 1.856224 x0.25 cups
+brown rice: 5.334494 cups
+egg: 0.058804 eggs
+
+Cost/Distance: 3222.48
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 129.11%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 107.73%
+sugar: 100.00%
+fiber: 95.88%
+calcium: 56.36%
+sodium: 25.62%
+potassium: 23.89%
+folic acid: 16.13%
+vitamin C: 0.00%
+
+--------------------
+
+yogurt: 1.531215 x5.3 ounces
+tomato: 1.027700 tomatoes
+almond: 1.819740 x0.25 cups
+brown rice: 5.294891 cups
+egg: 0.063009 eggs
+
+Cost/Distance: 3234.92
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 126.64%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 108.18%
+sugar: 100.00%
+fiber: 98.29%
+calcium: 57.32%
+sodium: 25.51%
+potassium: 23.51%
+folic acid: 15.97%
+vitamin C: 32.89%
+
+--------------------
+
+honey: 0.851722 tablespoons
+spinach: 11.940375 x1.5 cups
+almond: 2.760363 x0.25 cups
+brown rice: 4.484688 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 3239.27
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 32.98%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 108.57%
+sugar: 100.00%
+fiber: 176.20%
+calcium: 124.50%
+sodium: 77.59%
+potassium: 28.57%
+folic acid: 495.79%
+vitamin C: 382.09%
+
+--------------------
+
+tomato: 3.718571 tomatoes
+spinach: 11.075455 x1.5 cups
+almond: 2.562858 x0.25 cups
+brown rice: 4.402951 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 3242.76
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 31.00%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 110.13%
+sugar: 100.00%
+fiber: 179.11%
+calcium: 123.03%
+sodium: 73.43%
+potassium: 26.85%
+folic acid: 460.48%
+vitamin C: 473.41%
+
+--------------------
+
+potato: 7.918419 potatoes
+black beans: 1.819303 cups
+apple: 0.977487 apples
+almond: 3.157590 x0.25 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 3244.58
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 36.95%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 109.45%
+sugar: 100.00%
+fiber: 142.84%
+calcium: 43.13%
+sodium: 29.90%
+potassium: 176.94%
+folic acid: 155.42%
+vitamin C: 240.09%
+
+--------------------
+
+potato: 6.668582 potatoes
+black beans: 1.722625 cups
+sweet potato: 1.953440 sweet potatoes
+almond: 3.162961 x0.25 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 3267.07
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 37.01%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 109.21%
+sugar: 100.00%
+fiber: 154.35%
+calcium: 49.06%
+sodium: 34.62%
+potassium: 178.51%
+folic acid: 147.32%
+vitamin C: 252.91%
+
+--------------------
+
+honey: 0.804699 tablespoons
+potato: 8.241780 potatoes
+black beans: 1.774872 cups
+almond: 3.160058 x0.25 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 3276.03
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 36.98%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 109.36%
+sugar: 100.00%
+fiber: 130.88%
+calcium: 42.54%
+sodium: 30.06%
+potassium: 177.82%
+folic acid: 152.74%
+vitamin C: 241.76%
+
+--------------------
+
+potato: 8.248168 potatoes
+black beans: 1.639878 cups
+blue berries: 1.952126 x0.5 cups
+almond: 3.167558 x0.25 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 3296.14
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 37.05%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 110.34%
+sugar: 100.00%
+fiber: 137.24%
+calcium: 42.68%
+sodium: 30.18%
+potassium: 178.43%
+folic acid: 146.10%
+vitamin C: 260.17%
+
+--------------------
+
+carrot: 6.943213 carrots
+black beans: 3.344614 cups
+sweet potato: 2.564490 sweet potatoes
+avocado: 2.048567 avocadoes
+egg: 0.268817 eggs
+
+Cost/Distance: 3318.04
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 87.32%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 111.20%
+sugar: 100.00%
+fiber: 329.65%
+calcium: 42.73%
+sodium: 22.21%
+potassium: 174.88%
+folic acid: 316.38%
+vitamin C: 181.00%
+
+--------------------
+
+tomato: 3.466974 tomatoes
+potato: 9.908489 potatoes
+spinach: 10.287363 x1.5 cups
+almond: 3.066052 x0.25 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 3320.24
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 36.04%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 109.91%
+sugar: 100.00%
+fiber: 121.02%
+calcium: 120.11%
+sodium: 75.55%
+potassium: 175.15%
+folic acid: 456.22%
+vitamin C: 730.79%
+
+--------------------
+
+carrot: 15.328079 carrots
+tomato: 4.525232 tomatoes
+black beans: 2.855772 cups
+avocado: 1.899071 avocadoes
+egg: 0.268817 eggs
+
+Cost/Distance: 3403.78
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 81.34%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 113.82%
+sugar: 100.00%
+fiber: 336.02%
+calcium: 53.56%
+sodium: 30.48%
+potassium: 179.50%
+folic acid: 295.82%
+vitamin C: 325.85%
+
+--------------------
+
+orange: 1.995108 oranges
+potato: 4.126010 potatoes
+black beans: 3.467193 cups
+avocado: 2.044027 avocadoes
+egg: 0.268817 eggs
+
+Cost/Distance: 3426.87
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 87.14%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 110.91%
+sugar: 100.00%
+fiber: 268.42%
+calcium: 30.55%
+sodium: 5.57%
+potassium: 173.98%
+folic acid: 331.11%
+vitamin C: 297.58%
+
+--------------------
+
+potato: 9.948144 potatoes
+spinach: 10.247708 x1.5 cups
+blue berries: 1.926097 x0.5 cups
+almond: 3.258662 x0.25 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 3471.30
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 37.96%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 109.48%
+sugar: 100.00%
+fiber: 124.61%
+calcium: 115.66%
+sodium: 75.87%
+potassium: 179.80%
+folic acid: 457.23%
+vitamin C: 637.72%
+
+--------------------
+
+carrot: 12.851208 carrots
+black beans: 3.292292 cups
+apple: 1.282107 apples
+avocado: 2.050505 avocadoes
+egg: 0.268817 eggs
+
+Cost/Distance: 3480.76
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 87.40%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 112.02%
+sugar: 100.00%
+fiber: 345.13%
+calcium: 43.67%
+sodium: 25.13%
+potassium: 179.81%
+folic acid: 324.67%
+vitamin C: 171.21%
+
+--------------------
+
+orange: 1.518535 oranges
+potato: 8.338641 potatoes
+black beans: 1.657236 cups
+almond: 3.166593 x0.25 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 3498.80
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 37.04%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 109.44%
+sugar: 100.00%
+fiber: 135.21%
+calcium: 47.57%
+sodium: 30.08%
+potassium: 184.08%
+folic acid: 156.58%
+vitamin C: 347.86%
+
+--------------------
+
+potato: 9.806519 potatoes
+spinach: 11.352381 x1.5 cups
+apple: 0.963048 apples
+almond: 3.258662 x0.25 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 3500.49
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 37.96%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 108.52%
+sugar: 100.00%
+fiber: 128.76%
+calcium: 123.97%
+sodium: 80.52%
+potassium: 178.49%
+folic acid: 499.96%
+vitamin C: 658.64%
+
+--------------------
+
+potato: 8.475247 potatoes
+spinach: 10.757558 x1.5 cups
+sweet potato: 1.926097 sweet potatoes
+almond: 3.258662 x0.25 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 3503.09
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 37.96%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 108.33%
+sugar: 100.00%
+fiber: 140.85%
+calcium: 125.58%
+sodium: 82.53%
+potassium: 179.96%
+folic acid: 473.91%
+vitamin C: 649.35%
+
+--------------------
+
+honey: 0.793099 tablespoons
+potato: 10.079772 potatoes
+spinach: 11.079129 x1.5 cups
+almond: 3.258662 x0.25 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 3507.99
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 37.96%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 108.45%
+sugar: 100.00%
+fiber: 117.31%
+calcium: 121.44%
+sodium: 79.46%
+potassium: 179.31%
+folic acid: 489.02%
+vitamin C: 650.21%
+
+--------------------
+
+carrot: 14.353772 carrots
+honey: 1.055633 tablespoons
+black beans: 3.191373 cups
+avocado: 2.054242 avocadoes
+egg: 0.268817 eggs
+
+Cost/Distance: 3564.94
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 87.55%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 112.03%
+sugar: 100.00%
+fiber: 337.43%
+calcium: 45.08%
+sodium: 27.61%
+potassium: 182.72%
+folic acid: 320.83%
+vitamin C: 175.05%
+
+--------------------
+
+carrot: 14.336597 carrots
+black beans: 3.020400 cups
+blue berries: 2.562775 x0.5 cups
+avocado: 2.060575 avocadoes
+egg: 0.268817 eggs
+
+Cost/Distance: 3583.26
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 87.80%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 113.32%
+sugar: 100.00%
+fiber: 346.11%
+calcium: 45.19%
+sodium: 27.66%
+potassium: 183.46%
+folic acid: 312.65%
+vitamin C: 198.94%
+
+--------------------
+
+orange: 1.498075 oranges
+potato: 10.055149 potatoes
+spinach: 10.354714 x1.5 cups
+almond: 3.258662 x0.25 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 3699.95
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 37.96%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 108.58%
+sugar: 100.00%
+fiber: 122.47%
+calcium: 121.24%
+sodium: 76.25%
+potassium: 185.39%
+folic acid: 470.82%
+vitamin C: 728.17%
+
+--------------------
+
+spinach: 22.332631 x1.5 cups
+sweet potato: 2.573500 sweet potatoes
+avocado: 1.985503 avocadoes
+brown rice: 2.523665 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 3738.03
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 84.80%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 108.84%
+sugar: 100.00%
+fiber: 296.27%
+calcium: 190.38%
+sodium: 108.62%
+potassium: 85.14%
+folic acid: 980.91%
+vitamin C: 829.84%
+
+--------------------
+
+carrot: 14.767741 carrots
+orange: 1.993308 oranges
+black beans: 3.029690 cups
+avocado: 2.060231 avocadoes
+egg: 0.268817 eggs
+
+Cost/Distance: 3868.55
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 87.79%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 112.17%
+sugar: 100.00%
+fiber: 345.63%
+calcium: 52.24%
+sodium: 28.21%
+potassium: 191.39%
+folic acid: 326.20%
+vitamin C: 314.58%
+
+--------------------
+
+orange: 2.009642 oranges
+spinach: 21.570214 x1.5 cups
+avocado: 1.913221 avocadoes
+brown rice: 3.499473 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 3917.92
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 81.91%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 109.20%
+sugar: 100.00%
+fiber: 280.39%
+calcium: 183.01%
+sodium: 98.86%
+potassium: 60.00%
+folic acid: 959.65%
+vitamin C: 865.17%
+
+--------------------
+
+spinach: 21.441947 x1.5 cups
+blue berries: 2.583124 x0.5 cups
+avocado: 1.918135 avocadoes
+brown rice: 3.433135 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 3917.93
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 82.10%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 110.40%
+sugar: 100.00%
+fiber: 282.67%
+calcium: 175.63%
+sodium: 98.44%
+potassium: 54.71%
+folic acid: 942.59%
+vitamin C: 748.61%
+
+--------------------
+
+tomato: 4.563956 tomatoes
+spinach: 20.546305 x1.5 cups
+avocado: 1.744176 avocadoes
+brown rice: 3.499600 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 3920.35
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 75.14%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 110.89%
+sugar: 100.00%
+fiber: 268.62%
+calcium: 176.27%
+sodium: 95.79%
+potassium: 47.23%
+folic acid: 897.62%
+vitamin C: 838.41%
+
+--------------------
+
+yogurt: 1.402049 x5.3 ounces
+tomato: 0.956424 tomatoes
+potato: 11.746409 potatoes
+almond: 2.478958 x0.25 cups
+egg: 0.080370 eggs
+
+Cost/Distance: 4049.09
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 124.54%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 108.08%
+sugar: 100.00%
+fiber: 36.24%
+calcium: 59.41%
+sodium: 32.06%
+potassium: 199.60%
+folic acid: 48.41%
+vitamin C: 375.17%
+
+--------------------
+
+yogurt: 1.400554 x5.3 ounces
+potato: 11.755419 potatoes
+blue berries: 0.532834 x0.5 cups
+almond: 2.532867 x0.25 cups
+egg: 0.080571 eggs
+
+Cost/Distance: 4096.03
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 124.98%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 107.96%
+sugar: 100.00%
+fiber: 37.32%
+calcium: 58.24%
+sodium: 32.20%
+potassium: 200.86%
+folic acid: 49.13%
+vitamin C: 349.80%
+
+--------------------
+
+yogurt: 1.419161 x5.3 ounces
+potato: 11.386123 potatoes
+sweet potato: 0.514324 sweet potatoes
+almond: 2.523225 x0.25 cups
+egg: 0.078070 eggs
+
+Cost/Distance: 4101.70
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 126.13%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 107.63%
+sugar: 100.00%
+fiber: 40.50%
+calcium: 60.13%
+sodium: 33.39%
+potassium: 201.18%
+folic acid: 48.16%
+vitamin C: 349.08%
+
+--------------------
+
+yogurt: 1.439298 x5.3 ounces
+potato: 11.769070 potatoes
+apple: 0.247145 apples
+almond: 2.512789 x0.25 cups
+egg: 0.075363 eggs
+
+Cost/Distance: 4104.59
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 127.39%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 107.67%
+sugar: 100.00%
+fiber: 35.98%
+calcium: 58.79%
+sodium: 32.18%
+potassium: 201.11%
+folic acid: 48.80%
+vitamin C: 347.20%
+
+--------------------
+
+yogurt: 1.430246 x5.3 ounces
+honey: 0.207240 tablespoons
+potato: 11.828129 potatoes
+almond: 2.517480 x0.25 cups
+egg: 0.076580 eggs
+
+Cost/Distance: 4107.56
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 126.82%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 107.66%
+sugar: 100.00%
+fiber: 33.57%
+calcium: 58.54%
+sodium: 32.21%
+potassium: 201.18%
+folic acid: 48.78%
+vitamin C: 346.96%
+
+--------------------
+
+spinach: 22.943120 x1.5 cups
+apple: 1.291098 apples
+avocado: 1.924635 avocadoes
+brown rice: 3.345390 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 4131.38
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 82.36%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 109.11%
+sugar: 100.00%
+fiber: 287.46%
+calcium: 186.91%
+sodium: 104.81%
+potassium: 55.86%
+folic acid: 1001.42%
+vitamin C: 783.00%
+
+--------------------
+
+honey: 1.063995 tablespoons
+spinach: 22.538558 x1.5 cups
+avocado: 1.912090 avocadoes
+brown rice: 3.514742 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 4136.73
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 81.86%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 109.02%
+sugar: 100.00%
+fiber: 273.60%
+calcium: 183.24%
+sodium: 103.14%
+potassium: 51.34%
+folic acid: 983.80%
+vitamin C: 759.48%
+
+--------------------
+
+yogurt: 2.000000 x5.3 ounces
+tomato: 0.635514 tomatoes
+potato: 10.830951 potatoes
+spinach: 3.664376 x1.5 cups
+avocado: 1.457944 avocadoes
+
+Cost/Distance: 4148.27
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 198.32%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 107.97%
+sugar: 100.00%
+fiber: 84.87%
+calcium: 78.53%
+sodium: 31.84%
+potassium: 201.64%
+folic acid: 240.61%
+vitamin C: 484.46%
+
+--------------------
+
+yogurt: 1.404569 x5.3 ounces
+orange: 0.411319 oranges
+potato: 11.789981 potatoes
+almond: 2.530786 x0.25 cups
+egg: 0.080031 eggs
+
+Cost/Distance: 4154.71
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 125.23%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 107.71%
+sugar: 100.00%
+fiber: 36.49%
+calcium: 59.61%
+sodium: 32.18%
+potassium: 202.46%
+folic acid: 51.69%
+vitamin C: 373.81%
+
+--------------------
+
+yogurt: 2.000000 x5.3 ounces
+potato: 10.784469 potatoes
+spinach: 3.993308 x1.5 cups
+apple: 0.179894 apples
+avocado: 1.481481 avocadoes
+
+Cost/Distance: 4168.67
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 199.26%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 107.72%
+sugar: 100.00%
+fiber: 87.68%
+calcium: 79.98%
+sodium: 33.07%
+potassium: 202.12%
+folic acid: 254.69%
+vitamin C: 475.20%
+
+--------------------
+
+yogurt: 2.000000 x5.3 ounces
+honey: 0.148148 tablespoons
+potato: 10.835512 potatoes
+spinach: 3.942266 x1.5 cups
+avocado: 1.481481 avocadoes
+
+Cost/Distance: 4174.14
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 199.26%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 107.71%
+sugar: 100.00%
+fiber: 85.54%
+calcium: 79.51%
+sodium: 32.87%
+potassium: 202.28%
+folic acid: 252.65%
+vitamin C: 473.62%
+
+--------------------
+
+yogurt: 2.000000 x5.3 ounces
+potato: 10.535792 potatoes
+spinach: 3.882197 x1.5 cups
+sweet potato: 0.359788 sweet potatoes
+avocado: 1.481481 avocadoes
+
+Cost/Distance: 4174.48
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 199.26%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 107.69%
+sugar: 100.00%
+fiber: 89.94%
+calcium: 80.28%
+sodium: 33.44%
+potassium: 202.40%
+folic acid: 249.83%
+vitamin C: 473.46%
+
+--------------------
+
+yogurt: 2.000000 x5.3 ounces
+potato: 10.810924 potatoes
+spinach: 3.786959 x1.5 cups
+blue berries: 0.359788 x0.5 cups
+avocado: 1.481481 avocadoes
+
+Cost/Distance: 4177.06
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 199.26%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 107.90%
+sugar: 100.00%
+fiber: 86.90%
+calcium: 78.43%
+sodium: 32.20%
+potassium: 202.37%
+folic acid: 246.71%
+vitamin C: 471.29%
+
+--------------------
+
+yogurt: 2.000000 x5.3 ounces
+tomato: 0.640819 tomatoes
+potato: 10.267033 potatoes
+black beans: 0.567663 cups
+avocado: 1.436723 avocadoes
+
+Cost/Distance: 4181.91
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 197.47%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 108.26%
+sugar: 100.00%
+fiber: 87.99%
+calcium: 52.64%
+sodium: 15.75%
+potassium: 201.26%
+folic acid: 127.58%
+vitamin C: 350.41%
+
+--------------------
+
+yogurt: 2.000000 x5.3 ounces
+potato: 10.169047 potatoes
+black beans: 0.619083 cups
+apple: 0.181532 apples
+avocado: 1.458552 avocadoes
+
+Cost/Distance: 4200.64
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 198.34%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 108.04%
+sugar: 100.00%
+fiber: 91.11%
+calcium: 51.75%
+sodium: 15.53%
+potassium: 201.72%
+folic acid: 131.55%
+vitamin C: 328.92%
+
+--------------------
+
+carrot: 24.098956 carrots
+black beans: 0.984874 cups
+sweet potato: 1.941730 sweet potatoes
+almond: 3.203947 x0.25 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 4205.87
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 37.42%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 111.24%
+sugar: 100.00%
+fiber: 278.51%
+calcium: 84.66%
+sodium: 71.87%
+potassium: 207.08%
+folic acid: 137.10%
+vitamin C: 281.88%
+
+--------------------
+
+yogurt: 2.000000 x5.3 ounces
+potato: 9.935445 potatoes
+black beans: 0.601705 cups
+sweet potato: 0.362972 sweet potatoes
+avocado: 1.459196 avocadoes
+
+Cost/Distance: 4205.89
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 198.37%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 107.99%
+sugar: 100.00%
+fiber: 93.29%
+calcium: 52.84%
+sodium: 16.40%
+potassium: 202.01%
+folic acid: 130.10%
+vitamin C: 331.27%
+
+--------------------
+
+yogurt: 2.000000 x5.3 ounces
+honey: 0.149480 tablespoons
+potato: 10.228485 potatoes
+black beans: 0.611099 cups
+avocado: 1.458848 avocadoes
+
+Cost/Distance: 4206.57
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 198.35%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 108.02%
+sugar: 100.00%
+fiber: 88.91%
+calcium: 51.64%
+sodium: 15.56%
+potassium: 201.88%
+folic acid: 131.08%
+vitamin C: 329.21%
+
+--------------------
+
+yogurt: 2.000000 x5.3 ounces
+potato: 10.227806 potatoes
+black beans: 0.586817 cups
+blue berries: 0.362893 x0.5 cups
+avocado: 1.459748 avocadoes
+
+Cost/Distance: 4210.45
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 198.39%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 108.20%
+sugar: 100.00%
+fiber: 90.15%
+calcium: 51.66%
+sodium: 15.57%
+potassium: 201.99%
+folic acid: 129.92%
+vitamin C: 332.60%
+
+--------------------
+
+yogurt: 2.000000 x5.3 ounces
+orange: 0.279835 oranges
+potato: 10.830913 potatoes
+spinach: 3.806947 x1.5 cups
+avocado: 1.481481 avocadoes
+
+Cost/Distance: 4217.42
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 199.26%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 107.74%
+sugar: 100.00%
+fiber: 86.50%
+calcium: 79.47%
+sodium: 32.27%
+potassium: 203.41%
+folic acid: 249.25%
+vitamin C: 488.19%
+
+--------------------
+
+yogurt: 2.000000 x5.3 ounces
+orange: 0.282263 oranges
+potato: 10.244863 potatoes
+black beans: 0.589941 cups
+avocado: 1.459632 avocadoes
+
+Cost/Distance: 4248.86
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 198.39%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 108.03%
+sugar: 100.00%
+fiber: 89.76%
+calcium: 52.57%
+sodium: 15.56%
+potassium: 203.04%
+folic acid: 131.86%
+vitamin C: 348.90%
+
+--------------------
+
+carrot: 29.597146 carrots
+tomato: 3.488140 tomatoes
+black beans: 0.740803 cups
+almond: 3.023721 x0.25 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 4269.29
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 35.61%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 113.25%
+sugar: 100.00%
+fiber: 286.30%
+calcium: 90.66%
+sodium: 75.45%
+potassium: 208.83%
+folic acid: 131.33%
+vitamin C: 387.86%
+
+--------------------
+
+yogurt: 2.000000 x5.3 ounces
+tomato: 0.294279 tomatoes
+potato: 11.604306 potatoes
+avocado: 0.794431 avocadoes
+almond: 1.014227 x0.25 cups
+
+Cost/Distance: 4298.50
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 181.92%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 107.66%
+sugar: 100.00%
+fiber: 46.28%
+calcium: 58.05%
+sodium: 23.50%
+potassium: 205.46%
+folic acid: 73.99%
+vitamin C: 365.70%
+
+--------------------
+
+yogurt: 2.000000 x5.3 ounces
+potato: 11.614440 potatoes
+apple: 0.079471 apples
+avocado: 0.778517 avocadoes
+almond: 1.054446 x0.25 cups
+
+Cost/Distance: 4311.27
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 181.69%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 107.54%
+sugar: 100.00%
+fiber: 45.99%
+calcium: 57.88%
+sodium: 23.71%
+potassium: 205.82%
+folic acid: 73.60%
+vitamin C: 356.90%
+
+--------------------
+
+yogurt: 2.000000 x5.3 ounces
+potato: 11.492487 potatoes
+sweet potato: 0.161449 sweet potatoes
+avocado: 0.787294 avocadoes
+almond: 1.041281 x0.25 cups
+
+Cost/Distance: 4312.59
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 181.90%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 107.53%
+sugar: 100.00%
+fiber: 47.53%
+calcium: 58.29%
+sodium: 23.99%
+potassium: 205.90%
+folic acid: 73.68%
+vitamin C: 357.59%
+
+--------------------
+
+yogurt: 2.000000 x5.3 ounces
+potato: 11.606965 potatoes
+blue berries: 0.163663 x0.5 cups
+avocado: 0.795041 avocadoes
+almond: 1.029661 x0.25 cups
+
+Cost/Distance: 4313.08
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 182.10%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 107.63%
+sugar: 100.00%
+fiber: 46.62%
+calcium: 57.69%
+sodium: 23.53%
+potassium: 205.85%
+folic acid: 74.23%
+vitamin C: 357.90%
+
+--------------------
+
+yogurt: 2.000000 x5.3 ounces
+honey: 0.065917 tablespoons
+potato: 11.632430 potatoes
+avocado: 0.782515 avocadoes
+almond: 1.048449 x0.25 cups
+
+Cost/Distance: 4313.28
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 181.79%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 107.54%
+sugar: 100.00%
+fiber: 45.28%
+calcium: 57.79%
+sodium: 23.67%
+potassium: 205.87%
+folic acid: 73.72%
+vitamin C: 356.87%
+
+--------------------
+
+yogurt: 2.000000 x5.3 ounces
+orange: 0.126928 oranges
+potato: 11.617937 potatoes
+avocado: 0.793398 avocadoes
+almond: 1.032126 x0.25 cups
+
+Cost/Distance: 4330.74
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 182.06%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 107.55%
+sugar: 100.00%
+fiber: 46.34%
+calcium: 58.11%
+sodium: 23.55%
+potassium: 206.33%
+folic acid: 74.97%
+vitamin C: 365.29%
+
+--------------------
+
+carrot: 28.583511 carrots
+black beans: 0.943577 cups
+apple: 0.970537 apples
+almond: 3.206241 x0.25 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 4348.68
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 37.44%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 111.86%
+sugar: 100.00%
+fiber: 290.19%
+calcium: 85.41%
+sodium: 74.11%
+potassium: 210.84%
+folic acid: 143.25%
+vitamin C: 274.54%
+
+--------------------
+
+tomato: 4.498543 tomatoes
+potato: 7.570603 potatoes
+spinach: 21.364931 x1.5 cups
+avocado: 2.005829 avocadoes
+egg: 0.268817 eggs
+
+Cost/Distance: 4390.98
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 85.61%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 110.83%
+sugar: 100.00%
+fiber: 237.66%
+calcium: 182.04%
+sodium: 100.76%
+potassium: 163.60%
+folic acid: 959.93%
+vitamin C: 1089.82%
+
+--------------------
+
+carrot: 29.742126 carrots
+honey: 0.798746 tablespoons
+black beans: 0.863978 cups
+almond: 3.210663 x0.25 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 4432.50
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 37.48%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 111.87%
+sugar: 100.00%
+fiber: 284.29%
+calcium: 86.53%
+sodium: 76.05%
+potassium: 213.08%
+folic acid: 140.09%
+vitamin C: 277.59%
+
+--------------------
+
+carrot: 32.084632 carrots
+tomato: 3.466974 tomatoes
+spinach: 4.153537 x1.5 cups
+almond: 3.066052 x0.25 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 4446.85
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 36.04%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 113.11%
+sugar: 100.00%
+fiber: 294.03%
+calcium: 123.89%
+sodium: 97.82%
+potassium: 212.37%
+folic acid: 256.40%
+vitamin C: 543.31%
+
+--------------------
+
+carrot: 27.443656 carrots
+spinach: 5.510976 x1.5 cups
+sweet potato: 1.926097 sweet potatoes
+almond: 3.258662 x0.25 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 4455.02
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 37.96%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 111.07%
+sugar: 100.00%
+fiber: 288.83%
+calcium: 128.81%
+sodium: 101.57%
+potassium: 211.79%
+folic acid: 302.99%
+vitamin C: 488.99%
+
+--------------------
+
+carrot: 29.765006 carrots
+black beans: 0.729283 cups
+blue berries: 1.937673 x0.5 cups
+almond: 3.218146 x0.25 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 4456.41
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 37.56%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 112.84%
+sugar: 100.00%
+fiber: 290.72%
+calcium: 86.71%
+sodium: 76.21%
+potassium: 213.72%
+folic acid: 133.49%
+vitamin C: 295.89%
+
+--------------------
+
+yogurt: 2.000000 x5.3 ounces
+potato: 11.392522 potatoes
+broccoli: 0.163607 bunches
+avocado: 1.022079 avocadoes
+almond: 0.670925 x0.25 cups
+
+Cost/Distance: 4587.03
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 187.59%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 108.17%
+sugar: 100.00%
+fiber: 58.55%
+calcium: 59.25%
+sodium: 23.03%
+potassium: 213.07%
+folic acid: 96.73%
+vitamin C: 472.86%
+
+--------------------
+
+carrot: 31.754444 carrots
+spinach: 5.281679 x1.5 cups
+apple: 0.963048 apples
+almond: 3.258662 x0.25 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 4587.93
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 37.96%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 111.69%
+sugar: 100.00%
+fiber: 299.99%
+calcium: 127.70%
+sodium: 102.57%
+potassium: 215.32%
+folic acid: 302.19%
+vitamin C: 473.09%
+
+--------------------
+
+carrot: 32.213038 carrots
+spinach: 4.089333 x1.5 cups
+blue berries: 1.926097 x0.5 cups
+almond: 3.258662 x0.25 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 4624.79
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 37.96%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 112.70%
+sugar: 100.00%
+fiber: 298.31%
+calcium: 119.45%
+sodium: 98.23%
+potassium: 217.17%
+folic acid: 256.61%
+vitamin C: 449.49%
+
+--------------------
+
+potato: 7.428843 potatoes
+spinach: 22.232647 x1.5 cups
+blue berries: 2.546794 x0.5 cups
+avocado: 2.172441 avocadoes
+egg: 0.268817 eggs
+
+Cost/Distance: 4629.76
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 92.27%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 110.35%
+sugar: 100.00%
+fiber: 252.09%
+calcium: 181.29%
+sodium: 103.28%
+potassium: 168.80%
+folic acid: 1003.11%
+vitamin C: 996.58%
+
+--------------------
+
+carrot: 32.639261 carrots
+honey: 0.793099 tablespoons
+spinach: 4.839270 x1.5 cups
+almond: 3.258662 x0.25 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 4645.70
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 37.96%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 111.71%
+sugar: 100.00%
+fiber: 293.31%
+calcium: 125.28%
+sodium: 102.11%
+potassium: 217.17%
+folic acid: 285.74%
+vitamin C: 459.49%
+
+--------------------
+
+yogurt: 2.000000 x5.3 ounces
+potato: 10.908472 potatoes
+spinach: 1.740781 x1.5 cups
+broccoli: 0.253731 bunches
+avocado: 1.462687 avocadoes
+
+Cost/Distance: 4673.56
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 198.51%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 108.59%
+sugar: 100.00%
+fiber: 83.65%
+calcium: 69.65%
+sodium: 26.73%
+potassium: 215.45%
+folic acid: 188.42%
+vitamin C: 588.30%
+
+--------------------
+
+carrot: 30.089051 carrots
+orange: 1.507169 oranges
+black beans: 0.736597 cups
+almond: 3.217740 x0.25 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 4691.00
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 37.55%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 111.97%
+sugar: 100.00%
+fiber: 290.37%
+calcium: 92.04%
+sodium: 76.62%
+potassium: 219.71%
+folic acid: 143.75%
+vitamin C: 383.32%
+
+--------------------
+
+yogurt: 2.000000 x5.3 ounces
+potato: 10.642055 potatoes
+black beans: 0.268495 cups
+broccoli: 0.254733 bunches
+avocado: 1.452668 avocadoes
+
+Cost/Distance: 4693.00
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 198.11%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 108.73%
+sugar: 100.00%
+fiber: 85.12%
+calcium: 57.36%
+sodium: 19.10%
+potassium: 215.33%
+folic acid: 134.75%
+vitamin C: 525.31%
+
+--------------------
+
+carrot: 24.514335 carrots
+tomato: 4.498543 tomatoes
+spinach: 16.678367 x1.5 cups
+avocado: 2.005829 avocadoes
+egg: 0.268817 eggs
+
+Cost/Distance: 4707.96
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 85.61%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 113.29%
+sugar: 100.00%
+fiber: 369.85%
+calcium: 184.92%
+sodium: 117.77%
+potassium: 192.04%
+folic acid: 807.26%
+vitamin C: 946.58%
+
+--------------------
+
+potato: 5.481294 potatoes
+spinach: 22.906798 x1.5 cups
+sweet potato: 2.546794 sweet potatoes
+avocado: 2.172441 avocadoes
+egg: 0.268817 eggs
+
+Cost/Distance: 4735.23
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 92.27%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 108.82%
+sugar: 100.00%
+fiber: 273.57%
+calcium: 194.40%
+sodium: 112.08%
+potassium: 169.00%
+folic acid: 1025.17%
+vitamin C: 1011.96%
+
+--------------------
+
+honey: 1.048680 tablespoons
+potato: 7.602888 potatoes
+spinach: 23.331998 x1.5 cups
+avocado: 2.172441 avocadoes
+egg: 0.268817 eggs
+
+Cost/Distance: 4765.99
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 92.27%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 108.99%
+sugar: 100.00%
+fiber: 242.44%
+calcium: 188.93%
+sodium: 108.02%
+potassium: 168.15%
+folic acid: 1045.14%
+vitamin C: 1013.09%
+
+--------------------
+
+potato: 7.241578 potatoes
+spinach: 23.693308 x1.5 cups
+apple: 1.273397 apples
+avocado: 2.172441 avocadoes
+egg: 0.268817 eggs
+
+Cost/Distance: 4797.33
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 92.27%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 109.08%
+sugar: 100.00%
+fiber: 257.59%
+calcium: 192.28%
+sodium: 109.44%
+potassium: 167.05%
+folic acid: 1059.60%
+vitamin C: 1024.24%
+
+--------------------
+
+carrot: 34.248213 carrots
+yogurt: 0.509707 x5.3 ounces
+tomato: 2.554278 tomatoes
+almond: 2.852617 x0.25 cups
+egg: 0.200308 eggs
+
+Cost/Distance: 4838.88
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 68.21%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 112.67%
+sugar: 100.00%
+fiber: 274.87%
+calcium: 102.08%
+sodium: 83.51%
+potassium: 223.76%
+folic acid: 94.67%
+vitamin C: 401.39%
+
+--------------------
+
+carrot: 32.559532 carrots
+orange: 1.498075 oranges
+spinach: 4.130097 x1.5 cups
+almond: 3.258662 x0.25 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 4868.58
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 37.96%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 111.84%
+sugar: 100.00%
+fiber: 298.03%
+calcium: 125.08%
+sodium: 98.85%
+potassium: 223.16%
+folic acid: 268.04%
+vitamin C: 537.92%
+
+--------------------
+
+orange: 1.980840 oranges
+potato: 7.570331 potatoes
+spinach: 22.374136 x1.5 cups
+avocado: 2.172441 avocadoes
+egg: 0.268817 eggs
+
+Cost/Distance: 4884.22
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 92.27%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 109.16%
+sugar: 100.00%
+fiber: 249.26%
+calcium: 188.67%
+sodium: 103.79%
+potassium: 176.18%
+folic acid: 1021.07%
+vitamin C: 1116.18%
+
+--------------------
+
+carrot: 19.167505 carrots
+yogurt: 2.000000 x5.3 ounces
+tomato: 0.635514 tomatoes
+potato: 4.911574 potatoes
+avocado: 1.457944 avocadoes
+
+Cost/Distance: 4909.74
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 198.32%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 109.89%
+sugar: 100.00%
+fiber: 188.22%
+calcium: 80.79%
+sodium: 45.14%
+potassium: 223.87%
+folic acid: 121.24%
+vitamin C: 372.46%
+
+--------------------
+
+carrot: 31.579542 carrots
+yogurt: 0.622711 x5.3 ounces
+sweet potato: 1.306627 sweet potatoes
+almond: 2.935961 x0.25 cups
+egg: 0.185119 eggs
+
+Cost/Distance: 4920.32
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 76.65%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 111.18%
+sugar: 100.00%
+fiber: 267.10%
+calcium: 100.57%
+sodium: 82.89%
+potassium: 225.90%
+folic acid: 90.42%
+vitamin C: 333.07%
+
+--------------------
+
+carrot: 17.748952 carrots
+spinach: 19.513616 x1.5 cups
+sweet potato: 2.546794 sweet potatoes
+avocado: 2.172441 avocadoes
+egg: 0.268817 eggs
+
+Cost/Distance: 4935.55
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 92.27%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 110.60%
+sugar: 100.00%
+fiber: 369.27%
+calcium: 196.49%
+sodium: 124.40%
+potassium: 189.58%
+folic acid: 914.63%
+vitamin C: 908.25%
+
+--------------------
+
+carrot: 24.055300 carrots
+spinach: 17.633840 x1.5 cups
+blue berries: 2.546794 x0.5 cups
+avocado: 2.172441 avocadoes
+egg: 0.268817 eggs
+
+Cost/Distance: 4949.88
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 92.27%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 112.76%
+sugar: 100.00%
+fiber: 381.80%
+calcium: 184.12%
+sodium: 119.98%
+potassium: 196.70%
+folic acid: 853.29%
+vitamin C: 856.02%
+
+--------------------
+
+carrot: 19.808710 carrots
+yogurt: 2.000000 x5.3 ounces
+potato: 4.693529 potatoes
+blue berries: 0.359788 x0.5 cups
+avocado: 1.481481 avocadoes
+
+Cost/Distance: 4964.14
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 199.26%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 109.88%
+sugar: 100.00%
+fiber: 193.72%
+calcium: 80.76%
+sodium: 45.94%
+potassium: 225.35%
+folic acid: 123.35%
+vitamin C: 355.55%
+
+--------------------
+
+carrot: 34.318463 carrots
+yogurt: 0.503878 x5.3 ounces
+blue berries: 1.424841 x0.5 cups
+almond: 2.997542 x0.25 cups
+egg: 0.201092 eggs
+
+Cost/Distance: 4969.56
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 69.27%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 112.37%
+sugar: 100.00%
+fiber: 278.26%
+calcium: 99.04%
+sodium: 83.98%
+potassium: 227.19%
+folic acid: 96.67%
+vitamin C: 333.60%
+
+--------------------
+
+carrot: 20.306878 carrots
+yogurt: 2.000000 x5.3 ounces
+potato: 4.264550 potatoes
+sweet potato: 0.359788 sweet potatoes
+avocado: 1.481481 avocadoes
+
+Cost/Distance: 4982.81
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 199.26%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 109.72%
+sugar: 100.00%
+fiber: 199.44%
+calcium: 82.67%
+sodium: 47.53%
+potassium: 225.95%
+folic acid: 123.36%
+vitamin C: 354.81%
+
+--------------------
+
+carrot: 20.621083 carrots
+yogurt: 2.000000 x5.3 ounces
+honey: 0.148148 tablespoons
+potato: 4.467236 potatoes
+avocado: 1.481481 avocadoes
+
+Cost/Distance: 4993.36
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 199.26%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 109.77%
+sugar: 100.00%
+fiber: 196.73%
+calcium: 81.93%
+sodium: 47.18%
+potassium: 226.20%
+folic acid: 124.23%
+vitamin C: 353.13%
+
+--------------------
+
+carrot: 34.425240 carrots
+yogurt: 0.604896 x5.3 ounces
+apple: 0.662175 apples
+almond: 2.945193 x0.25 cups
+egg: 0.187514 eggs
+
+Cost/Distance: 4997.91
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 75.54%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 111.61%
+sugar: 100.00%
+fiber: 275.39%
+calcium: 100.63%
+sodium: 84.10%
+potassium: 227.92%
+folic acid: 95.95%
+vitamin C: 326.60%
+
+--------------------
+
+carrot: 20.888075 carrots
+yogurt: 2.000000 x5.3 ounces
+potato: 4.333740 potatoes
+apple: 0.179894 apples
+avocado: 1.481481 avocadoes
+
+Cost/Distance: 4998.24
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 199.26%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 109.81%
+sugar: 100.00%
+fiber: 200.31%
+calcium: 82.44%
+sodium: 47.56%
+potassium: 226.35%
+folic acid: 124.61%
+vitamin C: 353.15%
+
+--------------------
+
+carrot: 19.913264 carrots
+yogurt: 2.000000 x5.3 ounces
+orange: 0.279835 oranges
+potato: 4.681228 potatoes
+avocado: 1.481481 avocadoes
+
+Cost/Distance: 5008.72
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 199.26%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 109.73%
+sugar: 100.00%
+fiber: 193.88%
+calcium: 81.81%
+sodium: 46.09%
+potassium: 226.51%
+folic acid: 125.23%
+vitamin C: 371.83%
+
+--------------------
+
+carrot: 34.892018 carrots
+yogurt: 0.569122 x5.3 ounces
+honey: 0.559974 tablespoons
+almond: 2.963732 x0.25 cups
+egg: 0.192322 eggs
+
+Cost/Distance: 5019.31
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 73.32%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 111.63%
+sugar: 100.00%
+fiber: 272.13%
+calcium: 100.51%
+sodium: 84.87%
+potassium: 228.49%
+folic acid: 96.53%
+vitamin C: 325.66%
+
+--------------------
+
+carrot: 9.105626 carrots
+yogurt: 2.000000 x5.3 ounces
+potato: 8.096441 potatoes
+broccoli: 0.253731 bunches
+avocado: 1.462687 avocadoes
+
+Cost/Distance: 5037.66
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 198.51%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 109.50%
+sugar: 100.00%
+fiber: 132.74%
+calcium: 70.72%
+sodium: 33.05%
+potassium: 226.01%
+folic acid: 131.71%
+vitamin C: 535.10%
+
+--------------------
+
+carrot: 23.448920 carrots
+spinach: 19.210427 x1.5 cups
+apple: 1.273397 apples
+avocado: 2.172441 avocadoes
+egg: 0.268817 eggs
+
+Cost/Distance: 5059.96
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 92.27%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 111.42%
+sugar: 100.00%
+fiber: 384.03%
+calcium: 195.04%
+sodium: 125.71%
+potassium: 194.25%
+folic acid: 913.56%
+vitamin C: 887.23%
+
+--------------------
+
+carrot: 24.618876 carrots
+honey: 1.048680 tablespoons
+spinach: 18.625449 x1.5 cups
+avocado: 2.172441 avocadoes
+egg: 0.268817 eggs
+
+Cost/Distance: 5066.35
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 92.27%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 111.45%
+sugar: 100.00%
+fiber: 375.19%
+calcium: 191.83%
+sodium: 125.11%
+potassium: 196.71%
+folic acid: 891.82%
+vitamin C: 869.24%
+
+--------------------
+
+carrot: 34.589606 carrots
+yogurt: 0.507584 x5.3 ounces
+orange: 1.105342 oranges
+almond: 2.995622 x0.25 cups
+egg: 0.200594 eggs
+
+Cost/Distance: 5146.14
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 69.50%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 111.73%
+sugar: 100.00%
+fiber: 277.91%
+calcium: 103.04%
+sodium: 84.33%
+potassium: 231.68%
+folic acid: 103.93%
+vitamin C: 398.00%
+
+--------------------
+
+carrot: 24.513453 carrots
+orange: 1.980840 oranges
+spinach: 17.687740 x1.5 cups
+avocado: 2.172441 avocadoes
+egg: 0.268817 eggs
+
+Cost/Distance: 5249.04
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 92.27%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 111.61%
+sugar: 100.00%
+fiber: 381.44%
+calcium: 191.56%
+sodium: 120.80%
+potassium: 204.62%
+folic acid: 868.41%
+vitamin C: 972.95%
+
+--------------------
+
+carrot: 33.443793 carrots
+yogurt: 1.691615 x5.3 ounces
+tomato: 1.231164 tomatoes
+avocado: 1.542424 avocadoes
+egg: 0.041450 eggs
+
+Cost/Distance: 5280.66
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 180.94%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 111.76%
+sugar: 100.00%
+fiber: 288.76%
+calcium: 98.43%
+sodium: 65.68%
+potassium: 234.56%
+folic acid: 143.24%
+vitamin C: 382.39%
+
+--------------------
+
+carrot: 32.165510 carrots
+yogurt: 1.761667 x5.3 ounces
+sweet potato: 0.620406 sweet potatoes
+avocado: 1.563821 avocadoes
+egg: 0.032034 eggs
+
+Cost/Distance: 5325.46
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 186.51%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 111.04%
+sugar: 100.00%
+fiber: 285.26%
+calcium: 97.66%
+sodium: 65.14%
+potassium: 235.73%
+folic acid: 141.90%
+vitamin C: 349.69%
+
+--------------------
+
+carrot: 33.457592 carrots
+yogurt: 1.717078 x5.3 ounces
+blue berries: 0.669164 x0.5 cups
+avocado: 1.579225 avocadoes
+egg: 0.038027 eggs
+
+Cost/Distance: 5352.69
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 184.13%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 111.60%
+sugar: 100.00%
+fiber: 290.68%
+calcium: 96.91%
+sodium: 65.47%
+potassium: 236.43%
+folic acid: 145.34%
+vitamin C: 350.10%
+
+--------------------
+
+carrot: 33.515335 carrots
+yogurt: 1.754920 x5.3 ounces
+apple: 0.313892 apples
+avocado: 1.566152 avocadoes
+egg: 0.032941 eggs
+
+Cost/Distance: 5362.70
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 186.15%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 111.24%
+sugar: 100.00%
+fiber: 289.22%
+calcium: 97.68%
+sodium: 65.69%
+potassium: 236.70%
+folic acid: 144.60%
+vitamin C: 346.64%
+
+--------------------
+
+carrot: 33.733166 carrots
+yogurt: 1.741438 x5.3 ounces
+honey: 0.264570 tablespoons
+avocado: 1.570809 avocadoes
+egg: 0.034753 eggs
+
+Cost/Distance: 5373.66
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 185.43%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 111.25%
+sugar: 100.00%
+fiber: 287.72%
+calcium: 97.62%
+sodium: 66.00%
+potassium: 236.99%
+folic acid: 145.02%
+vitamin C: 346.26%
+
+--------------------
+
+carrot: 33.585235 carrots
+yogurt: 1.718454 x5.3 ounces
+orange: 0.519291 oranges
+avocado: 1.578750 avocadoes
+egg: 0.037842 eggs
+
+Cost/Distance: 5435.37
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 184.20%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 111.30%
+sugar: 100.00%
+fiber: 290.51%
+calcium: 98.79%
+sodium: 65.65%
+potassium: 238.54%
+folic acid: 148.74%
+vitamin C: 380.35%
+
+--------------------
+
+carrot: 32.642783 carrots
+tomato: 2.142886 tomatoes
+broccoli: 0.526626 bunches
+almond: 3.081099 x0.25 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 5555.94
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 36.19%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 114.45%
+sugar: 100.00%
+fiber: 293.93%
+calcium: 105.21%
+sodium: 87.48%
+potassium: 241.74%
+folic acid: 142.12%
+vitamin C: 753.81%
+
+--------------------
+
+carrot: 32.717257 carrots
+broccoli: 0.521564 bunches
+blue berries: 1.197562 x0.5 cups
+almond: 3.200710 x0.25 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 5656.89
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 37.38%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 114.18%
+sugar: 100.00%
+fiber: 296.59%
+calcium: 102.63%
+sodium: 87.84%
+potassium: 244.44%
+folic acid: 143.35%
+vitamin C: 693.46%
+
+--------------------
+
+carrot: 30.192805 carrots
+sweet potato: 1.058389 sweet potatoes
+broccoli: 0.621200 bunches
+almond: 3.189640 x0.25 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 5749.28
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 37.27%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 113.57%
+sugar: 100.00%
+fiber: 291.06%
+calcium: 104.55%
+sodium: 87.69%
+potassium: 246.70%
+folic acid: 147.20%
+vitamin C: 761.77%
+
+--------------------
+
+carrot: 33.018836 carrots
+honey: 0.461127 tablespoons
+broccoli: 0.577177 bunches
+almond: 3.194531 x0.25 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 5772.02
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 37.32%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 113.77%
+sugar: 100.00%
+fiber: 293.50%
+calcium: 104.22%
+sodium: 88.99%
+potassium: 247.35%
+folic acid: 148.21%
+vitamin C: 725.28%
+
+--------------------
+
+carrot: 32.542775 carrots
+broccoli: 0.606726 bunches
+apple: 0.539303 apples
+almond: 3.191248 x0.25 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 5793.50
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 37.29%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 113.86%
+sugar: 100.00%
+fiber: 297.25%
+calcium: 104.50%
+sodium: 88.57%
+potassium: 247.86%
+folic acid: 150.38%
+vitamin C: 746.51%
+
+--------------------
+
+carrot: 32.934995 carrots
+orange: 0.927938 oranges
+broccoli: 0.524785 bunches
+almond: 3.200352 x0.25 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 5811.82
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 37.38%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 113.66%
+sugar: 100.00%
+fiber: 296.41%
+calcium: 106.01%
+sodium: 88.16%
+potassium: 248.32%
+folic acid: 149.73%
+vitamin C: 749.74%
+
+--------------------
+
+tomato: 0.101039 tomatoes
+potato: 10.346668 potatoes
+broccoli: 1.338724 bunches
+almond: 3.104301 x0.25 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 5911.48
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 36.42%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 113.17%
+sugar: 100.00%
+fiber: 113.13%
+calcium: 72.46%
+sodium: 48.29%
+potassium: 248.17%
+folic acid: 174.55%
+vitamin C: 1274.19%
+
+--------------------
+
+potato: 10.347779 potatoes
+broccoli: 1.338573 bunches
+blue berries: 0.056344 x0.5 cups
+almond: 3.109932 x0.25 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 5916.10
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 36.48%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 113.16%
+sugar: 100.00%
+fiber: 113.23%
+calcium: 72.33%
+sodium: 48.30%
+potassium: 248.30%
+folic acid: 174.61%
+vitamin C: 1271.40%
+
+--------------------
+
+potato: 10.307232 potatoes
+sweet potato: 0.053748 sweet potatoes
+broccoli: 1.340432 bunches
+almond: 3.109725 x0.25 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 5919.64
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 36.47%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 113.13%
+sugar: 100.00%
+fiber: 113.67%
+calcium: 72.55%
+sodium: 48.45%
+potassium: 248.40%
+folic acid: 174.68%
+vitamin C: 1272.61%
+
+--------------------
+
+honey: 0.021507 tablespoons
+potato: 10.352227 potatoes
+broccoli: 1.341518 bunches
+almond: 3.109604 x0.25 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 5921.48
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 36.47%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 113.14%
+sugar: 100.00%
+fiber: 113.01%
+calcium: 72.39%
+sodium: 48.34%
+potassium: 248.44%
+folic acid: 174.85%
+vitamin C: 1273.14%
+
+--------------------
+
+potato: 10.345169 potatoes
+broccoli: 1.342394 bunches
+apple: 0.025503 apples
+almond: 3.109507 x0.25 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 5922.42
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 36.47%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 113.14%
+sugar: 100.00%
+fiber: 113.31%
+calcium: 72.43%
+sodium: 48.34%
+potassium: 248.46%
+folic acid: 174.93%
+vitamin C: 1273.77%
+
+--------------------
+
+orange: 0.043383 oranges
+potato: 10.350998 potatoes
+broccoli: 1.338978 bunches
+almond: 3.109887 x0.25 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 5923.35
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 36.48%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 113.13%
+sugar: 100.00%
+fiber: 113.17%
+calcium: 72.48%
+sodium: 48.30%
+potassium: 248.49%
+folic acid: 174.92%
+vitamin C: 1274.21%
+
+--------------------
+
+potato: 10.273953 potatoes
+broccoli: 1.394898 bunches
+avocado: 0.078162 avocadoes
+almond: 2.986430 x0.25 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 6017.03
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 38.37%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 113.34%
+sugar: 100.00%
+fiber: 117.34%
+calcium: 72.87%
+sodium: 48.13%
+potassium: 250.79%
+folic acid: 182.36%
+vitamin C: 1310.98%
+
+--------------------
+
+potato: 6.933463 potatoes
+black beans: 1.195128 cups
+broccoli: 1.800519 bunches
+avocado: 1.994805 avocadoes
+egg: 0.268817 eggs
+
+Cost/Distance: 6538.78
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 85.17%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 115.84%
+sugar: 100.00%
+fiber: 235.58%
+calcium: 64.46%
+sodium: 30.66%
+potassium: 260.83%
+folic acid: 351.57%
+vitamin C: 1544.45%
+
+--------------------
+
+potato: 8.119345 potatoes
+spinach: 7.748594 x1.5 cups
+broccoli: 1.796060 bunches
+avocado: 2.039400 avocadoes
+egg: 0.268817 eggs
+
+Cost/Distance: 6742.45
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 86.95%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 115.23%
+sugar: 100.00%
+fiber: 229.02%
+calcium: 119.13%
+sodium: 64.61%
+potassium: 261.38%
+folic acid: 590.46%
+vitamin C: 1824.86%
+
+--------------------
+
+carrot: 29.470074 carrots
+yogurt: 0.703953 x5.3 ounces
+broccoli: 1.253196 bunches
+avocado: 1.836410 avocadoes
+egg: 0.174200 eggs
+
+Cost/Distance: 7090.85
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 126.22%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 115.84%
+sugar: 100.00%
+fiber: 336.76%
+calcium: 105.18%
+sodium: 71.73%
+potassium: 279.40%
+folic acid: 265.42%
+vitamin C: 1217.43%
+
+--------------------
+
+carrot: 24.800900 carrots
+black beans: 0.463832 cups
+broccoli: 1.797791 bunches
+avocado: 2.022093 avocadoes
+egg: 0.268817 eggs
+
+Cost/Distance: 7567.36
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 86.26%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 117.95%
+sugar: 100.00%
+fiber: 365.30%
+calcium: 100.83%
+sodium: 68.65%
+potassium: 289.94%
+folic acid: 343.29%
+vitamin C: 1571.12%
+
+--------------------
+
+carrot: 28.382426 carrots
+broccoli: 1.675817 bunches
+avocado: 1.451544 avocadoes
+almond: 0.895144 x0.25 cups
+egg: 0.268817 eggs
+
+Cost/Distance: 7574.25
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 72.39%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 117.50%
+sugar: 100.00%
+fiber: 348.59%
+calcium: 108.61%
+sodium: 79.37%
+potassium: 291.13%
+folic acid: 291.37%
+vitamin C: 1504.99%
+
+--------------------
+
+carrot: 26.291211 carrots
+spinach: 2.722333 x1.5 cups
+broccoli: 1.796060 bunches
+avocado: 2.039400 avocadoes
+egg: 0.268817 eggs
+
+Cost/Distance: 7695.71
+
+calories: 100.00%
+fat: 100.00%
+saturated fat: 86.95%
+cholesterol: 100.00%
+protein: 100.00%
+carbohydrates: 117.86%
+sugar: 100.00%
+fiber: 370.79%
+calcium: 122.23%
+sodium: 82.86%
+potassium: 291.88%
+folic acid: 426.72%
+vitamin C: 1671.24%
+
+--------------------
+
